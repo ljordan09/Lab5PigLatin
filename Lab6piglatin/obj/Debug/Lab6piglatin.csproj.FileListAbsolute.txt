@@ -1,0 +1,7 @@
+c:\users\ljcon\source\repos\Lab6piglatin\Lab6piglatin\bin\Debug\Lab6piglatin.exe.config
+c:\users\ljcon\source\repos\Lab6piglatin\Lab6piglatin\bin\Debug\Lab6piglatin.exe
+c:\users\ljcon\source\repos\Lab6piglatin\Lab6piglatin\bin\Debug\Lab6piglatin.pdb
+c:\users\ljcon\source\repos\Lab6piglatin\Lab6piglatin\obj\Debug\Lab6piglatin.csprojResolveAssemblyReference.cache
+c:\users\ljcon\source\repos\Lab6piglatin\Lab6piglatin\obj\Debug\Lab6piglatin.csproj.CoreCompileInputs.cache
+c:\users\ljcon\source\repos\Lab6piglatin\Lab6piglatin\obj\Debug\Lab6piglatin.exe
+c:\users\ljcon\source\repos\Lab6piglatin\Lab6piglatin\obj\Debug\Lab6piglatin.pdb
